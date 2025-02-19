@@ -77,15 +77,15 @@ The system uses ESP-NOW for low-latency wireless communication between the units
 ### Keypad Layout and Functions
 ```
 ┌─────┬─────┬─────┬─────┐
-│ U   │ F   │ D   │     │  U: Up/Next View
-│ L   │ B   │ R   │     │  F: Forward
-├─────┼─────┼─────┼─────┤  D: Down/Previous View
-│     │     │     │     │  L: Left
-├─────┼─────┼─────┼─────┤  B: Backward
-│     │     │     │     │  R: Right
+│ 1   │ 2   │ 3   │ A   │  1: Up/Next View
+│     │     │     │     │  2: Forward
+├─────┼─────┼─────┼─────┤  3: Down/Previous View
+│ 4   │ 5   │ 6   │ B   │  4: Left
+├─────┼─────┼─────┼─────┤  5: Backward
+│ 7   │ 8   │ 9   │ C   │  6: Right
 ├─────┼─────┼─────┼─────┤
-│     │     │ G   │ T   │  G: General Mode
-│                       │  T: Navigation Mode
+│ *   │ 0   │ #   │ D   │  #: General Mode
+│                       │  D: Navigation Mode
 └───────────────────────┘
 ```
 
